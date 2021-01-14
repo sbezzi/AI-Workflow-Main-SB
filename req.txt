@@ -1,0 +1,16 @@
+
+1. Business scenario and Testable Hypotheses.
+
+The scenario is about the understand of the impact of moving from a standard subscription model to one more customised for different countries. Is a regression problem (supervised learning)
+
+The following hypotheses can be made for the above business scenario
+
+a. Null Hypothesis - There is no change in the revenue from the existing and new model for all the countries compared to previous month
+b. Hypothesis 1 - The revenue for top 10 countries by usage are not impacted but other countries will see decreased revenues compared to previous month
+c. Hypothesis 2 - The revenue for all the countries will increase as conversions will improve due to customized subscription model compared to previous month
+d. Hypothesis 3 - The revenue for all the countries will decrease as customized subscription model will reduce revenue per user compared to previous month
+
+2. State the ideal data to address the business opportunity and clarify the rationale for needing specific data.
+There are two kind of information required to solve the problem -
+a. The country wise transaction data for existing users which will provide the way current subscription is being used in each country and also see how many users will be impacted by the new subscription model
+b. Data to show how the current subscribed users fit in overall demography of the country, this is to avoid hyper-customization for small part of demography which might be forming the majority of the current subscription base

@@ -1,3 +1,16 @@
+#ASSIGNEMENT WORKOUT DESCRIPTION
+
+The solution has the following components:
+
+1. Deployable dockerimage (Dockerfile)
+2. Python code for model, interface, logging, test automation ( )
+3. notebook for resolutiuon exercice week 3 and 4 (cs_capstone.ipynb)
+4.
+
+
+
+
+
 # IBM AI Enterprise Workflow Capstone
 Files for the IBM AI Enterprise Workflow Capstone project. 
 

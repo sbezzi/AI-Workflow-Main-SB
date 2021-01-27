@@ -3,7 +3,7 @@
 The solution has the following components:
 
 1. Deployable dockerimage (Dockerfile)
-2. Python code for model, interface, logging, test automation ( )
+2. Python code for model, interface, logging, monitoring anf test automation.
 3. notebook for resolutiuon exercice week 3 and 4 (cs_capstone.ipynb)
 4.
 

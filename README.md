@@ -1,4 +1,4 @@
-#ASSIGNEMENT WORKOUT DESCRIPTION
+# ASSIGNEMENT WORKOUT DESCRIPTION
 
 The solution has the following components:
 

@@ -3,10 +3,12 @@
 The solution has the following components:
 
 1. Deployable dockerimage (Dockerfile)
-2. Python code for model, interface, logging, monitoring anf test automation.
+2. Python code for model, interface, logging, monitoring and test automation (files .py)
 3. notebook for resolutiuon exercice week 3 and 4 (cs_capstone.ipynb)
-4.
-
+4. data for training and production (folder training and production)
+5. front end html and js(folder static)
+6. code for unit test (folder unittests)
+7.log result (folder log)
 
 
 
